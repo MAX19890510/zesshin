@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+.dist/
+dist/
+
+# Local caches and logs
+node_cache/
+.npm/
+.pnpm-store/
+.yarn/
+.yarn/cache/
+.yarn/install-state.gz
+
+# Env files
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Vite
+vite.svg
