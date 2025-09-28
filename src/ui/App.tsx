@@ -16,7 +16,7 @@ export const App: React.FC = () => {
   return (
     <div className="container">
       <header className="header">
-        <h1>舌診・体質チェック（MVP）</h1>
+        <h1>舌診・体質チェック</h1>
         <p className="subtitle">10問の質問に答えて体質傾向と生活アドバイスを確認しましょう（医療行為ではありません）。</p>
       </header>
 
